@@ -48,6 +48,7 @@ public class MergeLead extends BaseClass {
 			System.out.println("Text not matched");
 		}
 
+		System.out.println("merge");
 	}
 
 }
